@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="logo">assets/images/tarkaset.png</file>
+    </qresource>
+</RCC>
